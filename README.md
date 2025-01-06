@@ -37,7 +37,9 @@ A Java-based application designed to help users manage and analyze student grade
 
 1. Save the code to a file named `GradeCalculator.java`.
 2. Compile the program:
+    javac GradeCalculator.java
 3. Run the program:
+   java GradeCalculator
 
 ## Usage
 
