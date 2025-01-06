@@ -49,16 +49,7 @@ A Java-based application designed to help users manage and analyze student grade
    - **Option 2**: Calculate and display the average, highest, and lowest grades.
    - **Option 3**: View all entered grades.
    - **Option 4**: Exit the application.
-
-### Example Scenarios
-
-**Entering Grades**:
-
-**Calculating Statistics**:
-
-**Displaying All Grades**:
-
-**Exiting**:
+     
 ## License
 
 This project is open-source and available for educational and personal use. Modify and redistribute as needed.
